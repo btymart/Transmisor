@@ -68,17 +68,17 @@ class Imagen:
         elif valorCelda == 1:
             col = (0,0,0)
         elif valorCelda == 2:
-            col = (255,0,0)
+            col = (0,0,255)
         elif valorCelda == 3:
             col = (0,255,0)
         elif valorCelda == 4:
-            col = (0,0,255)
+            col = (255,0,0)
         elif valorCelda == 5:
             col = (255,0,255)
         elif valorCelda == 6:
-            col = (0,255,255)
-        elif valorCelda == 7:
             col = (255,255,0)
+        elif valorCelda == 7:
+            col = (0,255,255)
             
         return col
 
