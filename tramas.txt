@@ -204,3 +204,2587 @@ Carga util: 570<class 'numpy.ndarray'><class 'numpy.uint8'>
 Relleno: 147
 CRC: 32294[0 1 1 1 1 1 1 0 0 0 1 0 0 1 1 0]<class 'numpy.ndarray'>int32
 
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 1[0 0 0 0 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 0 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 57591[1 1 1 0 0 0 0 0 1 1 1 1 0 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 2[0 0 0 0 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 48248[1 0 1 1 1 1 0 0 0 1 1 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 3[0 0 0 0 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 0 1 1]
+Relleno: 0
+CRC: 31003[0 1 1 1 1 0 0 1 0 0 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 4[0 0 0 0 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 58085[1 1 1 0 0 0 1 0 1 1 1 0 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 5[0 0 0 0 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 35966[1 0 0 0 1 1 0 0 0 1 1 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 6[0 0 0 0 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 26042[0 1 1 0 0 1 0 1 1 0 1 1 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 7[0 0 0 0 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 22670[0 1 0 1 1 0 0 0 1 0 0 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 8[0 0 0 0 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 0 0 1 0]
+Relleno: 0
+CRC: 22926[0 1 0 1 1 0 0 1 1 0 0 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 9[0 0 0 0 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 1]
+Relleno: 0
+CRC: 49102[1 0 1 1 1 1 1 1 1 1 0 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 10[0 0 0 0 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 5073[0 0 0 1 0 0 1 1 1 1 0 1 0 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 11[0 0 0 0 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 1 0]
+Relleno: 0
+CRC: 53355[1 1 0 1 0 0 0 0 0 1 1 0 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 12[0 0 0 0 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 0 1 1]
+Relleno: 0
+CRC: 61634[1 1 1 1 0 0 0 0 1 1 0 0 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 13[0 0 0 0 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 58085[1 1 1 0 0 0 1 0 1 1 1 0 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 14[0 0 0 0 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 1 1 0]
+Relleno: 0
+CRC: 46502[1 0 1 1 0 1 0 1 1 0 1 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 15[0 0 0 0 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 55090[1 1 0 1 0 1 1 1 0 0 1 1 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 16[0 0 0 1 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 55384[1 1 0 1 1 0 0 0 0 1 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 17[0 0 0 1 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 45080[1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 18[0 0 0 1 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 47523[1 0 1 1 1 0 0 1 1 0 1 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 19[0 0 0 1 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 41846[1 0 1 0 0 0 1 1 0 1 1 1 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 20[0 0 0 1 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 0 0 0 1 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 39013[1 0 0 1 1 0 0 0 0 1 1 0 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 21[0 0 0 1 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 16216[0 0 1 1 1 1 1 1 0 1 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 22[0 0 0 1 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 0 0 1 0 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 35504[1 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 23[0 0 0 1 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 26244[0 1 1 0 0 1 1 0 1 0 0 0 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 24[0 0 0 1 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 26527[0 1 1 0 0 1 1 1 1 0 0 1 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 25[0 0 0 1 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 21231[0 1 0 1 0 0 1 0 1 1 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 26[0 0 0 1 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 52686[1 1 0 0 1 1 0 1 1 1 0 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 27[0 0 0 1 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1]
+Relleno: 0
+CRC: 46846[1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 28[0 0 0 1 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0]
+Relleno: 0
+CRC: 6517[0 0 0 1 1 0 0 1 0 1 1 1 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 29[0 0 0 1 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 30943[0 1 1 1 1 0 0 0 1 1 0 1 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 30[0 0 0 1 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 31[0 0 0 1 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 52704[1 1 0 0 1 1 0 1 1 1 1 0 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 32[0 0 1 0 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 56771[1 1 0 1 1 1 0 1 1 1 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 33[0 0 1 0 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 57126[1 1 0 1 1 1 1 1 0 0 1 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 34[0 0 1 0 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 42026[1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 35[0 0 1 0 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 0 0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 11411[0 0 1 0 1 1 0 0 1 0 0 1 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 36[0 0 1 0 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 26244[0 1 1 0 0 1 1 0 1 0 0 0 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 37[0 0 1 0 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 30654[0 1 1 1 0 1 1 1 1 0 1 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 38[0 0 1 0 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 21140[0 1 0 1 0 0 1 0 1 0 0 1 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 39[0 0 1 0 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 1 0 0]
+Relleno: 0
+CRC: 56440[1 1 0 1 1 1 0 0 0 1 1 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 40[0 0 1 0 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 23820[0 1 0 1 1 1 0 1 0 0 0 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 41[0 0 1 0 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 45080[1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 42[0 0 1 0 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 43[0 0 1 0 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 20682[0 1 0 1 0 0 0 0 1 1 0 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 44[0 0 1 0 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 1 0 0 0 1 1]
+Relleno: 0
+CRC: 36279[1 0 0 0 1 1 0 1 1 0 1 1 0 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 45[0 0 1 0 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 0 0 1]
+Relleno: 0
+CRC: 32292[0 1 1 1 1 1 1 0 0 0 1 0 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 46[0 0 1 0 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 45199[1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 47[0 0 1 0 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 36143[1 0 0 0 1 1 0 1 0 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 48[0 0 1 1 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 54022[1 1 0 1 0 0 1 1 0 0 0 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 49[0 0 1 1 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 1 0 1 1 1 1 0 1 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 19993[0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 50[0 0 1 1 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 33065[1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 51[0 0 1 1 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 41663[1 0 1 0 0 0 1 0 1 0 1 1 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 52[0 0 1 1 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 60681[1 1 1 0 1 1 0 1 0 0 0 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 53[0 0 1 1 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 1115[0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 54[0 0 1 1 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 9809[0 0 1 0 0 1 1 0 0 1 0 1 0 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 55[0 0 1 1 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 20315[0 1 0 0 1 1 1 1 0 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 56[0 0 1 1 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 57[0 0 1 1 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 9923[0 0 1 0 0 1 1 0 1 1 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 58[0 0 1 1 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 63707[1 1 1 1 1 0 0 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 59[0 0 1 1 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 1 0 0]
+Relleno: 0
+CRC: 22837[0 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 60[0 0 1 1 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 20655[0 1 0 1 0 0 0 0 1 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 61[0 0 1 1 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 1 0 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 1910[0 0 0 0 0 1 1 1 0 1 1 1 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 62[0 0 1 1 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 47836[1 0 1 1 1 0 1 0 1 1 0 1 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 63[0 0 1 1 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 36505[1 0 0 0 1 1 1 0 1 0 0 1 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 64[0 1 0 0 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1]
+Relleno: 0
+CRC: 60147[1 1 1 0 1 0 1 0 1 1 1 1 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 65[0 1 0 0 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 47995[1 0 1 1 1 0 1 1 0 1 1 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 66[0 1 0 0 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 30664[0 1 1 1 0 1 1 1 1 1 0 0 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 67[0 1 0 0 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 68[0 1 0 0 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 54503[1 1 0 1 0 1 0 0 1 1 1 0 0 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 69[0 1 0 0 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 1 1 1 0 1 0 0]
+Relleno: 0
+CRC: 45590[1 0 1 1 0 0 1 0 0 0 0 1 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 70[0 1 0 0 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 26410[0 1 1 0 0 1 1 1 0 0 1 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 71[0 1 0 0 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 58901[1 1 1 0 0 1 1 0 0 0 0 1 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 72[0 1 0 0 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 30680[0 1 1 1 0 1 1 1 1 1 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 73[0 1 0 0 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 54024[1 1 0 1 0 0 1 1 0 0 0 0 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 74[0 1 0 0 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 51683[1 1 0 0 1 0 0 1 1 1 1 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 75[0 1 0 0 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 50312[1 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 76[0 1 0 0 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 45628[1 0 1 1 0 0 1 0 0 0 1 1 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 77[0 1 0 0 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 37475[1 0 0 1 0 0 1 0 0 1 1 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 78[0 1 0 0 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 26324[0 1 1 0 0 1 1 0 1 1 0 1 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 79[0 1 0 0 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 80[0 1 0 1 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 45080[1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 81[0 1 0 1 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 36143[1 0 0 0 1 1 0 1 0 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 82[0 1 0 1 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 43394[1 0 1 0 1 0 0 1 1 0 0 0 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 83[0 1 0 1 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 65455[1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 84[0 1 0 1 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 0 1 1 0 0 0 1 1]
+Relleno: 0
+CRC: 38213[1 0 0 1 0 1 0 1 0 1 0 0 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 85[0 1 0 1 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 18046[0 1 0 0 0 1 1 0 0 1 1 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 86[0 1 0 1 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 1]
+Relleno: 0
+CRC: 52899[1 1 0 0 1 1 1 0 1 0 1 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 87[0 1 0 1 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 2124[0 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 88[0 1 0 1 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 7343[0 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 89[0 1 0 1 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 14054[0 0 1 1 0 1 1 0 1 1 1 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 90[0 1 0 1 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 30262[0 1 1 1 0 1 1 0 0 0 1 1 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 91[0 1 0 1 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 19886[0 1 0 0 1 1 0 1 1 0 1 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 92[0 1 0 1 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 56771[1 1 0 1 1 1 0 1 1 1 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 93[0 1 0 1 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 56582[1 1 0 1 1 1 0 1 0 0 0 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 94[0 1 0 1 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 1 0 0 1 1 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 40066[1 0 0 1 1 1 0 0 1 0 0 0 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 95[0 1 0 1 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 0 0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 11411[0 0 1 0 1 1 0 0 1 0 0 1 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 96[0 1 1 0 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 41846[1 0 1 0 0 0 1 1 0 1 1 1 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 97[0 1 1 0 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 15610[0 0 1 1 1 1 0 0 1 1 1 1 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 98[0 1 1 0 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 14236[0 0 1 1 0 1 1 1 1 0 0 1 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 99[0 1 1 0 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 29778[0 1 1 1 0 1 0 0 0 1 0 1 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 100[0 1 1 0 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 18540[0 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 101[0 1 1 0 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1]
+Relleno: 0
+CRC: 42619[1 0 1 0 0 1 1 0 0 1 1 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 102[0 1 1 0 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 58901[1 1 1 0 0 1 1 0 0 0 0 1 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 103[0 1 1 0 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 56713[1 1 0 1 1 1 0 1 1 0 0 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 104[0 1 1 0 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 1 0 1 1 0]
+Relleno: 0
+CRC: 40273[1 0 0 1 1 1 0 1 0 1 0 1 0 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 105[0 1 1 0 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 20655[0 1 0 1 0 0 0 0 1 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 106[0 1 1 0 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 64556[1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 107[0 1 1 0 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 12823[0 0 1 1 0 0 1 0 0 0 0 1 0 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 108[0 1 1 0 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 56789[1 1 0 1 1 1 0 1 1 1 0 1 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 109[0 1 1 0 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 1 0 1 1 0 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 31368[0 1 1 1 1 0 1 0 1 0 0 0 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 110[0 1 1 0 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 5136[0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 111[0 1 1 0 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 33065[1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 112[0 1 1 1 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 18540[0 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 113[0 1 1 1 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 114[0 1 1 1 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 45080[1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 115[0 1 1 1 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 16302[0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 116[0 1 1 1 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 37662[1 0 0 1 0 0 1 1 0 0 0 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 117[0 1 1 1 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 0 0 1 0]
+Relleno: 0
+CRC: 52664[1 1 0 0 1 1 0 1 1 0 1 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 118[0 1 1 1 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 36419[1 0 0 0 1 1 1 0 0 1 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 119[0 1 1 1 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 46211[1 0 1 1 0 1 0 0 1 0 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 120[0 1 1 1 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 65455[1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 121[0 1 1 1 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 24435[0 1 0 1 1 1 1 1 0 1 1 1 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 122[0 1 1 1 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 45628[1 0 1 1 0 0 1 0 0 0 1 1 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 123[0 1 1 1 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 26527[0 1 1 0 0 1 1 1 1 0 0 1 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 124[0 1 1 1 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 38629[1 0 0 1 0 1 1 0 1 1 1 0 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 125[0 1 1 1 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 6154[0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 126[0 1 1 1 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 1]
+Relleno: 0
+CRC: 4434[0 0 0 1 0 0 0 1 0 1 0 1 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 127[0 1 1 1 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 45199[1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 128[1 0 0 0 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 60851[1 1 1 0 1 1 0 1 1 0 1 1 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 129[1 0 0 0 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 1 0 0 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 2660[0 0 0 0 1 0 1 0 0 1 1 0 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 130[1 0 0 0 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 45628[1 0 1 1 0 0 1 0 0 0 1 1 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 131[1 0 0 0 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 37475[1 0 0 1 0 0 1 0 0 1 1 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 132[1 0 0 0 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 1115[0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 133[1 0 0 0 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 4878[0 0 0 1 0 0 1 1 0 0 0 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 134[1 0 0 0 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0]
+Relleno: 0
+CRC: 9783[0 0 1 0 0 1 1 0 0 0 1 1 0 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 135[1 0 0 0 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 8736[0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 136[1 0 0 0 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 29323[0 1 1 1 0 0 1 0 1 0 0 0 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 137[1 0 0 0 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 18540[0 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 138[1 0 0 0 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1 0 0 0 0]
+Relleno: 0
+CRC: 49390[1 1 0 0 0 0 0 0 1 1 1 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 139[1 0 0 0 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 42688[1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 140[1 0 0 0 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 19618[0 1 0 0 1 1 0 0 1 0 1 0 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 141[1 0 0 0 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 45860[1 0 1 1 0 0 1 1 0 0 1 0 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 142[1 0 0 0 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 41501[1 0 1 0 0 0 1 0 0 0 0 1 1 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 143[1 0 0 0 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 1 1 1 0 1 0 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 59924[1 1 1 0 1 0 1 0 0 0 0 1 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 144[1 0 0 1 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 55746[1 1 0 1 1 0 0 1 1 1 0 0 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 145[1 0 0 1 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 1 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 13078[0 0 1 1 0 0 1 1 0 0 0 1 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 146[1 0 0 1 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 41872[1 0 1 0 0 0 1 1 1 0 0 1 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 147[1 0 0 1 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 22224[0 1 0 1 0 1 1 0 1 1 0 1 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 148[1 0 0 1 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 1 0 1 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 34883[1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 149[1 0 0 1 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 41694[1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 150[1 0 0 1 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0]
+Relleno: 0
+CRC: 29631[0 1 1 1 0 0 1 1 1 0 1 1 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 151[1 0 0 1 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 0]
+Relleno: 0
+CRC: 56417[1 1 0 1 1 1 0 0 0 1 1 0 0 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 152[1 0 0 1 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 64212[1 1 1 1 1 0 1 0 1 1 0 1 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 153[1 0 0 1 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 18540[0 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 154[1 0 0 1 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1]
+Relleno: 0
+CRC: 42619[1 0 1 0 0 1 1 0 0 1 1 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 155[1 0 0 1 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 65455[1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 156[1 0 0 1 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 24435[0 1 0 1 1 1 1 1 0 1 1 1 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 157[1 0 0 1 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 15477[0 0 1 1 1 1 0 0 0 1 1 1 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 158[1 0 0 1 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0]
+Relleno: 0
+CRC: 51050[1 1 0 0 0 1 1 1 0 1 1 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 159[1 0 0 1 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 36419[1 0 0 0 1 1 1 0 0 1 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 160[1 0 1 0 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 36143[1 0 0 0 1 1 0 1 0 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 161[1 0 1 0 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 62[0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 162[1 0 1 0 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 56361[1 1 0 1 1 1 0 0 0 0 1 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 163[1 0 1 0 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 16208[0 0 1 1 1 1 1 1 0 1 0 1 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 164[1 0 1 0 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 18697[0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 165[1 0 1 0 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 56962[1 1 0 1 1 1 1 0 1 0 0 0 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 166[1 0 1 0 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 41350[1 0 1 0 0 0 0 1 1 0 0 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 167[1 0 1 0 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 18540[0 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 168[1 0 1 0 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 2091[0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 169[1 0 1 0 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 1115[0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 170[1 0 1 0 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 53699[1 1 0 1 0 0 0 1 1 1 0 0 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 171[1 0 1 0 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 14094[0 0 1 1 0 1 1 1 0 0 0 0 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 172[1 0 1 0 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 1]
+Relleno: 0
+CRC: 294[0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 173[1 0 1 0 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 45199[1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 174[1 0 1 0 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 40609[1 0 0 1 1 1 1 0 1 0 1 0 0 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 175[1 0 1 0 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 3867[0 0 0 0 1 1 1 1 0 0 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 176[1 0 1 1 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 16207[0 0 1 1 1 1 1 1 0 1 0 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 177[1 0 1 1 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 45823[1 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 178[1 0 1 1 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1]
+Relleno: 0
+CRC: 50251[1 1 0 0 0 1 0 0 0 1 0 0 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 179[1 0 1 1 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 18697[0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 180[1 0 1 1 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 27387[0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 181[1 0 1 1 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 28936[0 1 1 1 0 0 0 1 0 0 0 0 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 182[1 0 1 1 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 183[1 0 1 1 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 44033[1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 184[1 0 1 1 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 1 0 0 0 1 1 0 1 1 1 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 1673[0 0 0 0 0 1 1 0 1 0 0 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 185[1 0 1 1 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 1 1 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1]
+Relleno: 0
+CRC: 31351[0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 186[1 0 1 1 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 57876[1 1 1 0 0 0 1 0 0 0 0 1 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 187[1 0 1 1 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 21130[0 1 0 1 0 0 1 0 1 0 0 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 188[1 0 1 1 1 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 0 0 1]
+Relleno: 0
+CRC: 57876[1 1 1 0 0 0 1 0 0 0 0 1 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 189[1 0 1 1 1 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0]
+Relleno: 0
+CRC: 51050[1 1 0 0 0 1 1 1 0 1 1 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 190[1 0 1 1 1 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 63417[1 1 1 1 0 1 1 1 1 0 1 1 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 191[1 0 1 1 1 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 1 0]
+Relleno: 0
+CRC: 16997[0 1 0 0 0 0 1 0 0 1 1 0 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 192[1 1 0 0 0 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 1 1 0 0 1 1 1]
+Relleno: 0
+CRC: 64075[1 1 1 1 1 0 1 0 0 1 0 0 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 193[1 1 0 0 0 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 1]
+Relleno: 0
+CRC: 18888[0 1 0 0 1 0 0 1 1 1 0 0 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 194[1 1 0 0 0 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1]
+Relleno: 0
+CRC: 58901[1 1 1 0 0 1 1 0 0 0 0 1 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 195[1 1 0 0 0 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 11288[0 0 1 0 1 1 0 0 0 0 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 196[1 1 0 0 0 1 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0]
+Relleno: 0
+CRC: 36143[1 0 0 0 1 1 0 1 0 0 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 197[1 1 0 0 0 1 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 43394[1 0 1 0 1 0 0 1 1 0 0 0 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 198[1 1 0 0 0 1 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 1 1 0 1 0 1]
+Relleno: 0
+CRC: 36263[1 0 0 0 1 1 0 1 1 0 1 0 0 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 199[1 1 0 0 0 1 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 4394[0 0 0 1 0 0 0 1 0 0 1 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 200[1 1 0 0 1 0 0 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1]
+Relleno: 0
+CRC: 50907[1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 201[1 1 0 0 1 0 0 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 15610[0 0 1 1 1 1 0 0 1 1 1 1 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 202[1 1 0 0 1 0 1 0]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 0 1 1 0 0 0 0 1]
+Relleno: 0
+CRC: 10605[0 0 1 0 1 0 0 1 0 1 1 0 1 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 203[1 1 0 0 1 0 1 1]Longitud:8
+Numero de trama: 203[1 1 0 0 1 0 1 1]Longitud:8
+Longitud carga util: 5[1 1 0 0 0]
+Carga util: 24<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 1 0 0 1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 0 1]
+Relleno: 0
+CRC: 4678[0 0 0 1 0 0 1 0 0 1 0 0 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 1[0 0 0 0 0 0 0 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 0 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1
+ 0 0 1 0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 0 1 1 0 1
+ 1 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0
+ 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1
+ 0 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0
+ 1 1 0 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 1 0 1 1 0 0 0
+ 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1 0 1]
+Relleno: 0
+CRC: 63787[1 1 1 1 1 0 0 1 0 0 1 0 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 2[0 0 0 0 0 0 1 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 0 0
+ 1 0 1 1 0 0 0 1 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0
+ 1 0 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 0
+ 1 1 0 1 0 0 1 0 1 1 1 0 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0
+ 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1
+ 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 1 0
+ 0 1 1 0 0 0 1 1 0 1 1 0 0 1 0 1 0 1 1 0]
+Relleno: 0
+CRC: 25972[0 1 1 0 0 1 0 1 0 1 1 1 0 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 3[0 0 0 0 0 0 1 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 1 1 0 0 1 0 0 0
+ 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1
+ 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1
+ 0 0 1 0 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 1 0
+ 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0
+ 1 0 0 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 1 0 1 0 0
+ 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0]
+Relleno: 0
+CRC: 11550[0 0 1 0 1 1 0 1 0 0 0 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 4[0 0 0 0 0 1 0 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1
+ 0 1 0 0 1 0 1 1 0 1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0 0 0 1
+ 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 0 0 1 0 0 1 1 0 1 1 0 0 0 1 1 0 0
+ 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 0
+ 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0
+ 0 0 1 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 1 0 0 0 1 1 0 0 0 0 1 0 1 1 1
+ 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0]
+Relleno: 0
+CRC: 61024[1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 5[0 0 0 0 0 1 0 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1
+ 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1
+ 1 0 0 0 0 1 0 1 1 0 0 0 1 1 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 0 0
+ 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0
+ 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 0 0
+ 1 1 0 1 0 0 1 0 1 1 1 1 0 1 0 0 1 1 0 1 1 1 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1
+ 0 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1]
+Relleno: 0
+CRC: 11049[0 0 1 0 1 0 1 1 0 0 1 0 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 6[0 0 0 0 0 1 1 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1
+ 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 1
+ 0 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0
+ 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1
+ 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 1 0 1 0 1 0 1 1
+ 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 1 0 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0
+ 0 1 1 0 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1]
+Relleno: 0
+CRC: 25839[0 1 1 0 0 1 0 0 1 1 1 0 1 1 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 7[0 0 0 0 0 1 1 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1 0
+ 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0
+ 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 1 1 1 0 1 0 1 0 1 1
+ 1 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0
+ 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 0
+ 1 0 1 0 1 1 1 0 0 1 1 0 1 1 1 0 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 1
+ 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0]
+Relleno: 0
+CRC: 49750[1 1 0 0 0 0 1 0 0 1 0 1 0 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 8[0 0 0 0 1 0 0 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1
+ 0 0 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0
+ 0 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 1 0 1
+ 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1
+ 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0
+ 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0
+ 1 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0]
+Relleno: 0
+CRC: 17595[0 1 0 0 0 1 0 0 1 0 1 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 9[0 0 0 0 1 0 0 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0
+ 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 0 1
+ 1 0 0 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1
+ 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1
+ 0 1 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1 0
+ 1 1 1 0 0 1 0 0 1 1 0 0 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0
+ 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1]
+Relleno: 0
+CRC: 28554[0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 10[0 0 0 0 1 0 1 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1
+ 0 0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 0 1 1 0 1 1 0
+ 1 0 0 1 0 1 1 0 0 0 1 0 0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0
+ 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0
+ 0 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1
+ 0 1 0 0 1 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0
+ 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1]
+Relleno: 0
+CRC: 36165[1 0 0 0 1 1 0 1 0 1 0 0 0 1 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 11[0 0 0 0 1 0 1 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 0
+ 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1 0 1 1 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 1 0 1
+ 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1
+ 0 1 1 0 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1
+ 0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1 0 1 1 1 0
+ 1 1 0 0 1 1 0 1 0 0 1 0 1 1 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 0 1 0 1 0 1
+ 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 0 0 1]
+Relleno: 0
+CRC: 63979[1 1 1 1 1 0 0 1 1 1 1 0 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 12[0 0 0 0 1 1 0 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0
+ 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0
+ 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 0 1 1 0 1 1 0 0
+ 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 0 0 1 0 0 1
+ 1 1 0 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0
+ 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 1 1 1
+ 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0]
+Relleno: 0
+CRC: 24178[0 1 0 1 1 1 1 0 0 1 1 1 0 0 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 13[0 0 0 0 1 1 0 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1 0 0 1 0 0
+ 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0
+ 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 1 0 0 1 1 0 1 0 0 1 0 0 1 0 0 0 0
+ 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0
+ 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 1 0 0 1 1 0 1 0 1 0 0 1 1 1 0 1 0 1 0
+ 1 1 1 0 0 1 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1
+ 0 1 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 1 0 0]
+Relleno: 0
+CRC: 4697[0 0 0 1 0 0 1 0 0 1 0 1 1 0 0 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 14[0 0 0 0 1 1 1 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0
+ 1 0 1 1 0 1 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0 0 1 1 0
+ 1 1 1 1 0 1 1 0 0 0 1 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0
+ 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1
+ 0 1 0 0 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1
+ 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 0 1 1 0 0 0 0 1
+ 0 1 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 1 1 0]
+Relleno: 0
+CRC: 350[0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 15[0 0 0 0 1 1 1 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 1 1 1 0 1 0 0 0
+ 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 1 0 1 1 0 1 0
+ 1 0 0 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1
+ 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0
+ 0 1 1 1 0 1 0 0 0 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0
+ 1 0 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 0 1 0 1
+ 1 0 1 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0 1 1]
+Relleno: 0
+CRC: 24044[0 1 0 1 1 1 0 1 1 1 1 0 1 1 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 16[0 0 0 1 0 0 0 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 1 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0
+ 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0
+ 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0
+ 0 1 0 0 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1
+ 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0
+ 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 1 0
+ 1 1 0 0 0 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0]
+Relleno: 0
+CRC: 31795[0 1 1 1 1 1 0 0 0 0 1 1 0 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 17[0 0 0 1 0 0 0 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 1
+ 1 0 0 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1
+ 1 0 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 0 1 1 0 0 0 0
+ 1 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0
+ 1 0 1 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0
+ 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 0 0 1 1 0 1 1
+ 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 0]
+Relleno: 0
+CRC: 29592[0 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 18[0 0 0 1 0 0 1 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0
+ 0 0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0
+ 1 0 0 1 0 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0
+ 1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 0 1 0 0 0
+ 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1
+ 0 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1
+ 0 1 1 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 0]
+Relleno: 0
+CRC: 1592[0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 19[0 0 0 1 0 0 1 1]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0
+ 1 1 1 0 1 0 0 0 1 1 0 1 1 1 1 0 1 1 0 1 1 1 0 0 1 1 0 0 0 1 1 0 1 1 0 0 1
+ 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 0 0 1 0 0 1
+ 0 0 0 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1
+ 0 1 1 0 1 0 0 1 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 0 1
+ 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 0 0 1 1 0 0 0 0 1 0 1 1 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 0 1 1 1 0 0 1 0 0 1 1 0 0 0]
+Relleno: 0
+CRC: 31870[0 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 20[0 0 0 1 0 1 0 0]Longitud:8
+Longitud carga util: 8[1 1 1 1 0 0 1 0]
+Carga util: 242<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 0 1 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1
+ 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 0 1 1 1 1
+ 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1
+ 1 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1
+ 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1 0 0 0 0 1 1 0
+ 1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 1 0 1 1 0
+ 0 0 0 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0]
+Relleno: 0
+CRC: 17499[0 1 0 0 0 1 0 0 0 1 0 1 1 0 1 1]<class 'numpy.ndarray'>int32
+
+
+
+*****************************************************************
+Tramas: 21[0 0 0 1 0 1 0 1]Longitud:8
+Numero de trama: 21[0 0 0 1 0 1 0 1]Longitud:8
+Longitud carga util: 8[0 0 1 0 0 0 0 0]
+Carga util: 32<class 'numpy.ndarray'><class 'numpy.uint8'>
+[0 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 0 1]
+Relleno: 210
+CRC: 53444[1 1 0 1 0 0 0 0 1 1 0 0 0 1 0 0]<class 'numpy.ndarray'>int32
+
