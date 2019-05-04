@@ -3,6 +3,7 @@ import math
 import crc16
 import random
 
+f = open('tramas.txt','w')
 class EstructuraTrama:
         def __init__(self,numeroTramas,numeroTrama,BitsPorTrama,longitudCU,cargaUtil):
                 
@@ -12,14 +13,18 @@ class EstructuraTrama:
             self.longitudCU = self.aBinario(cargaUtil.size,longitudCU)
             self.bitsRelleno = BitsPorTrama-cargaUtil.size
             self.CRC = self.aBinario(crc16.crc16xmodem(self.cargaUtil),16)
-
-            print('Tramas: ',self.numeroTramas.size, self.numeroTramas)
-            print('Numero de trama: ',self.numeroTrama.size,self.numeroTrama)
-            print('Longitud carga util: ',self.longitudCU.size,self.longitudCU)
-            print('Carga util: ',self.cargaUtil.size)
-            print('Relleno: ',self.bitsRelleno)
-            print('CRC: ', self.CRC.size,self.CRC,type(self.CRC),self.CRC.dtype)
             
+            f = open('tramas.txt','a')
+            f.write('\n\n*****************************************************************\n')
+            f.write('Tramas: ' + str(numeroTramas) + str(self.numeroTramas) + 'Longitud:' + str(self.numeroTramas.size) + '\n')
+            f.write('Numero de trama: ' + str(numeroTrama) + str(self.numeroTrama) + 'Longitud:' + str(self.numeroTrama.size) +'\n')
+            f.write('Longitud carga util: ' + str(self.longitudCU.size) + str(self.longitudCU) + '\n')
+            f.write('Carga util: ' + str(self.cargaUtil.size) + str(type(self.cargaUtil)) + str(type(self.cargaUtil[2])) + '\n')
+            f.write(str(self.cargaUtil) + '\n')
+            f.write('Relleno: ' + str(self.bitsRelleno) + '\n')
+            f.write('CRC: ' + str(crc16.crc16xmodem(self.cargaUtil)) + str(self.CRC) + str(type(self.CRC)) + str(self.CRC.dtype)+'\n\n')
+            f.close()
+            print("abierto")
         def aBinario(self,numero,nbits):
             nb = '{0:0'+str(nbits)+'b}'
             nb = nb.format(numero)
