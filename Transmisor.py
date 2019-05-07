@@ -20,7 +20,7 @@ class Interfaz:
     def __init__(self):
         self.Interfaz = Tk()
         self.Interfaz.state('zoomed')
-        self.Interfaz.configure(bg='#636363')
+        self.Interfaz.configure(bg='#000000')
         
         #SELECCION DE ARCHIVO
         self.seleccionarArchivo = Button(self.Interfaz,text="Seleccionar Archivo", command=self.abrirArchivo).place(relx=0.1,rely=0.1)
