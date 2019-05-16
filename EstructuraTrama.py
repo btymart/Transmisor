@@ -19,7 +19,7 @@ class EstructuraTrama:
             f.write('Tramas: ' + str(numeroTramas) + str(self.numeroTramas) + 'Longitud:' + str(self.numeroTramas.size) + '\n')
             f.write('Numero de trama: ' + str(numeroTrama) + str(self.numeroTrama) + 'Longitud:' + str(self.numeroTrama.size) +'\n')
             f.write('Longitud carga util: ' + str(self.longitudCU.size) + str(self.longitudCU) + '\n')
-            f.write('Carga util: ' + pstr(self.cargaUtil.size) + str(type(self.cargaUtil)) + str(type(self.cargaUtil[2])) + '\n')
+            f.write('Carga util: ' + str(self.cargaUtil.size) + str(type(self.cargaUtil)) + str(type(self.cargaUtil[2])) + '\n')
             f.write(str(self.cargaUtil) + '\n')
             f.write('Relleno: ' + str(self.bitsRelleno) + '\n')
             f.write('CRC: ' + str(crc16.crc16xmodem(self.cargaUtil)) + str(self.CRC) + str(type(self.CRC)) + str(self.CRC.dtype)+'\n\n')
