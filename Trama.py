@@ -1,7 +1,7 @@
 import math
 from EstructuraTrama import EstructuraTrama
 from PatronDeColor import PatronDeColor
-from Imagen4 import Imagen
+from Imagen3 import Imagen
 
 class Trama:
     def __init__(self,contenido,NumTramas,tamanoUtil,BitsPorTrama,numColores,tamanoMatriz):
