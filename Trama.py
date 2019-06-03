@@ -1,4 +1,5 @@
 import math
+import numpy as np
 from EstructuraTrama import EstructuraTrama
 from PatronDeColor import PatronDeColor
 from Imagen3 import Imagen
@@ -24,9 +25,16 @@ class Trama:
             print(tramaX.getTrama(),tramaX.getTrama().size)
             patron = PatronDeColor(tramaX.getTrama(),self.numColores,self.tamanoMatriz,self.celdaSincro)
             patron.arregloColores()
-
-            Img = Imagen(patron.arregloColores(),self.tamanoMatriz,self.numColores,x)
+            Img = Imagen(patron.arregloColores(),self.tamanoMatriz,self.numColores,x+2)
             Img.generarImagen()
+
+        s = patron.arregloColores().shape[0]
+        a = np.zeros(s)
+        Img = Imagen(a,self.tamanoMatriz,self.numColores,0)
+        Img.generarImagen()
+
+        Img = Imagen(a,self.tamanoMatriz,self.numColores,1)
+        Img.generarImagen()
             
     
         

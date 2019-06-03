@@ -27,13 +27,13 @@ class Interfaz:
 
         #PATRONES POR SEGUNDO
         self.etiqueta = Label(text="Patrones por segundo: ").place(relx=0.1,rely=0.15)
-        self.patronesPorSegundo = ttk.Combobox(state="readonly", values=[5,10,15,20])
+        self.patronesPorSegundo = ttk.Combobox(state="readonly", values=[5,10,13,15])
         self.patronesPorSegundo.place(relx=0.2,rely=0.15)
         self.patronesPorSegundo.current(0)
 
         #TAMAÑO DE LA MATRIZ
         self.etiqueta2 = Label(text="Tamaño de la matriz: ").place(relx=0.1,rely=0.2)
-        self.tamanoMatriz = ttk.Combobox(state="readonly", values=[8,10,12,14,16,100])
+        self.tamanoMatriz = ttk.Combobox(state="readonly", values=[8,10,12,14,16])
         self.tamanoMatriz.place(relx=0.2,rely=0.2)
         self.tamanoMatriz.current(0)
         
@@ -50,7 +50,7 @@ class Interfaz:
 
         #PRUEBA DE IMAGEN EN LABEL
         self.l1 = tkk.Label(self.Interfaz, text="   ", borderwidth=4, relief="groove")
-        self.l1.place(relx=0.4,rely=0.005,width=700, height=700)
+        self.l1.place(relx=0.4,rely=0.03,width=700, height=700)
         
         self.Interfaz.mainloop()
         

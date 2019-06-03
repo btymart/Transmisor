@@ -52,7 +52,7 @@ class Imagen:
             col = self.Color(colReferencia[x])
             cv2.rectangle(img,pt1,pt2,col,-1)
         
-        cv2.rectangle(img,(2*tamanoCelda,(4+self.tamanoMatriz)*tamanoCelda),(3*tamanoCelda,(5+self.tamanoMatriz)*tamanoCelda),(255,255,255),-1)        
+        cv2.rectangle(img,(2*tamanoCelda,(4+self.tamanoMatriz)*tamanoCelda+6),(3*tamanoCelda,(5+self.tamanoMatriz)*tamanoCelda),(255,255,255),-1)        
         cv2.rectangle(img,(3*tamanoCelda,3*tamanoCelda),((self.tamanoMatriz+5)*tamanoCelda,(self.tamanoMatriz+5)*tamanoCelda),(255,255,255),-1)
         #cv2.rectangle(img,(4*tamanoCelda,4*tamanoCelda),((self.tamanoMatriz+6)*tamanoCelda,(self.tamanoMatriz+6)*tamanoCelda),(255,255,255),-1) 
        
@@ -66,6 +66,9 @@ class Imagen:
 
         #cv2.imshow('image',img)
         nombreImagen = 'Imagen' + str(self.numImagen)+'.png'
+        if self.numImagen == 0 or self.numImagen == 1:
+            cv2.rectangle(img,(4*tamanoCelda,4*tamanoCelda),((self.tamanoMatriz+4)*tamanoCelda,(self.tamanoMatriz+4)*tamanoCelda),(0,0,0),-1)
+
         cv2.imwrite(nombreImagen,img)
         #cv2.waitKey(0)
         cv2.destroyAllWindows()
